@@ -2,7 +2,7 @@
 
 # RoGSTA: Root cause Graph Spatial Temporal Attention Network (Submitted to FSE 2026)
 <div align="center">
-  <img src="/other/RoGSTA.pdf" alt="RoGSTA" />
+  <img src="other/RoGSTA-01.jpg" alt="RoGSTA" />
 </div>
 
 ---
